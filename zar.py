@@ -26,6 +26,6 @@ while counter<3:
         draw=draw+1
 
 
-    sayac=sayac+1
+    counter=counter+1
 print('***********************************************************')
 print('Win :' + str(win) +'Lose :'+ str(lose)+' Draw:'+ str(draw))
